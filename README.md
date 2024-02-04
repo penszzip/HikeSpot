@@ -1,4 +1,4 @@
-A full-stack web application to post hiking areas<br>
+<h1>HikeSpot - A full-stack web application to post hiking areas</h1>
 
 Index page:
 <p></p>
